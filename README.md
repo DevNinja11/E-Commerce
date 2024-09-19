@@ -20,7 +20,6 @@ This project involved the creation of a dynamic online shopping platform designe
 
 ## Key Features
 
-### Consumer Web App
 - **User Registration and Login**: A secure and streamlined process for creating accounts and accessing the platform.
 - **Product Browsing**: Users can explore products, filter by categories, and search for specific items.
 - **Product Details**: Detailed information is provided for each product to assist users in making informed decisions.
@@ -28,30 +27,7 @@ This project involved the creation of a dynamic online shopping platform designe
 - **Wishlist**: Users can save products for later consideration, accessible within their profile.
 - **Order Management**: Enables users to track their orders, view statuses, and review their order history.
 - **Checkout Process**: Features a user-friendly process for entering shipping details, selecting payment options, and completing orders.
-
-### Admin Panel
-- **Category and Product Management**: Administrators can easily add, update, or delete categories and products as needed.
-- **Order Management**: Provides tools for viewing and updating the status of all orders placed by users.
-- **User Management**: Allows for the removal of users engaged in fraudulent activities and the addition of new administrators.
-- **Email Notifications**: An automated email system handles user registration, order confirmation, and shipment notifications, including OTPs for password resets.
-
-## Contributions
-- **Frontend Development**: Crafted a responsive and intuitive user interface using modern web technologies to enhance the user experience.
-- **Backend Development**: Developed a secure and scalable backend architecture utilizing Java, JSP, Servlet, and JDBC to manage authentication, product handling, and order processing.
-- **Database Management**: Optimized MySQL to efficiently manage and store product data, user information, and order history.
-- **System Integrations**: Integrated an automated email notification system to handle user registration, order confirmations, and password resets, enhancing overall communication and user engagement.
-
-## Impact Created
-- **Enhanced User Experience**: The platform offers a seamless and secure shopping journey, from product browsing to order placement.
-- **Empowered Administrators**: The admin panel provides an intuitive interface for managing products, categories, and user accounts, significantly improving operational efficiency.
-- **Automated Communication**: The integrated email notification system ensures that users are informed at every stage of their interaction, from registration to order shipment.
-
-## Conclusion
-The E-Commerce Website has excelled as a robust and user-centric online shopping platform, seamlessly blending advanced frontend and backend technologies to deliver a comprehensive e-commerce solution. Through this project, I have demonstrated a strong commitment to innovation, ensuring user satisfaction while optimizing operational efficiency.
-
-In conclusion, this project not only meets the demands of today’s e-commerce landscape but also sets a high benchmark for future developments. By focusing on scalability, security, and user experience, I have created a platform that is well-equipped to adapt to evolving market needs and drive continued success in the digital retail space.
-
-## Screenshot of projects:-
+ ## Screenshot of projects:-
 Home Page
 ![home_page](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/9f5fe55b-d3da-4cfa-9b4e-ac79f80dea45)
 Registration page
@@ -100,13 +76,21 @@ Email Example
 ![order_shipped_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8733b6ea-431a-4dbf-86f8-edd749a6a2ec)
 ![reset_password_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/7a6511ff-7fb2-46a0-9296-e3614289028f)
 
+## Contributions
+- **Frontend Development**: Crafted a responsive and intuitive user interface using modern web technologies to enhance the user experience.
+- **Backend Development**: Developed a secure and scalable backend architecture utilizing Java, JSP, Servlet, and JDBC to manage authentication, product handling, and order processing.
+- **Database Management**: Optimized MySQL to efficiently manage and store product data, user information, and order history.
+- **System Integrations**: Integrated an automated email notification system to handle user registration, order confirmations, and password resets, enhancing overall communication and user engagement.
 
+## Impact Created
+- **Enhanced User Experience**: The platform offers a seamless and secure shopping journey, from product browsing to order placement.
+- **Empowered Administrators**: The admin panel provides an intuitive interface for managing products, categories, and user accounts, significantly improving operational efficiency.
+- **Automated Communication**: The integrated email notification system ensures that users are informed at every stage of their interaction, from registration to order shipment.
 
+## Conclusion
+The E-Commerce Website has excelled as a robust and user-centric online shopping platform, seamlessly blending advanced frontend and backend technologies to deliver a comprehensive e-commerce solution. Through this project, I have demonstrated a strong commitment to innovation, ensuring user satisfaction while optimizing operational efficiency.
 
-
-
-
-
+In conclusion, this project not only meets the demands of today’s e-commerce landscape but also sets a high benchmark for future developments. By focusing on scalability, security, and user experience, I have created a platform that is well-equipped to adapt to evolving market needs and drive continued success in the digital retail space.
 
 
 
