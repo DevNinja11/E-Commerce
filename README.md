@@ -17,7 +17,6 @@ This project involved the creation of a dynamic online shopping platform designe
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ## Key Features
 
 - **User Registration and Login**: A secure and streamlined process for creating accounts and accessing the platform.
@@ -75,7 +74,6 @@ Email Example
 ![order_confirm_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/e6ab034c-6633-4a6b-9e09-177f4c328134)
 ![order_shipped_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8733b6ea-431a-4dbf-86f8-edd749a6a2ec)
 ![reset_password_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/7a6511ff-7fb2-46a0-9296-e3614289028f)
-
 ## Contributions
 - **Frontend Development**: Crafted a responsive and intuitive user interface using modern web technologies to enhance the user experience.
 - **Backend Development**: Developed a secure and scalable backend architecture utilizing Java, JSP, Servlet, and JDBC to manage authentication, product handling, and order processing.
