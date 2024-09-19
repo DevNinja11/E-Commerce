@@ -2,25 +2,21 @@
 
 # E-Commerce Website
 
-## Table of Contents
-1. [Description](#description)
-2. [Project Overview](#project-overview)
-3. [Key Features](#key-features)
-   - [Consumer Web App](#consumer-web-app)
-   - [Admin Panel](#admin-panel)
-4. [Integrations and Tech Stack](#integrations-and-tech-stack)
-   - [Technologies Used](#technologies-used)
-   - [Software and Tools](#software-and-tools)
-5. [Challenges Faced](#challenges-faced)
-6. [Contributions](#contributions)
-7. [Impact Created](#impact-created)
-8. [Conclusion](#conclusion)
-
-## Description
-I've built an "E-Commerce Website," a comprehensive online shopping platform that not only elevates the user experience but also streamlines administrative tasks. This website is a testament to leaving no stone unturned in delivering a scalable and efficient e-commerce solution, leveraging cutting-edge technologies such as Java, JSP, Servlet, HTML, and JDBC.
-
 ## Project Overview
 This project involved the creation of a dynamic online shopping platform designed to meet the needs of both consumers and administrators. The website offers features such as product filtering, a shopping cart, wishlist functionality, and an admin panel for managing products and user accounts. My role encompassed both frontend and backend development, ensuring a seamless user interface and efficient backend operations.
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=java&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-00758F?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ## Key Features
 
@@ -38,20 +34,6 @@ This project involved the creation of a dynamic online shopping platform designe
 - **Order Management**: Provides tools for viewing and updating the status of all orders placed by users.
 - **User Management**: Allows for the removal of users engaged in fraudulent activities and the addition of new administrators.
 - **Email Notifications**: An automated email system handles user registration, order confirmation, and shipment notifications, including OTPs for password resets.
-
-## Integrations and Tech Stack
-
-### Technologies Used
-- **Frontend**: HTML, CSS, JavaScript/jQuery, Bootstrap
-- **Backend**: Java 17, JDBC, Servlet, JSP
-- **Database**: MySQL (8.0)
-
-### Software and Tools
-- **Development Environment**: Eclipse EE, Tomcat 10, MySQL Workbench
-- **Jar Files**: mysql-connector-j-8.0.31, angus-activation-2.0.1, jakarta.activation-api-2.1.2, jakarta.mail-2.0.1
-
-## Challenges Faced
-The project presented several challenges, particularly in creating a secure and user-friendly shopping experience while maintaining efficient backend management for administrators. Overcoming obstacles such as implementing a robust email notification system and designing a flexible admin panel required innovative solutions and meticulous attention to detail.
 
 ## Contributions
 - **Frontend Development**: Crafted a responsive and intuitive user interface using modern web technologies to enhance the user experience.
